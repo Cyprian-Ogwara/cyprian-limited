@@ -47,7 +47,7 @@ To empower organizations with accurate, reliable, and actionable data insights t
 
 ---
 
-## 👁 Our Vision
+## Our Vision
 
 To become a trusted leader in data analytics and business intelligence solutions across Africa and beyond.
 
