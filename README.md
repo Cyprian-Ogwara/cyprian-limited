@@ -8,12 +8,6 @@ Cyprian Limited is a professional data analytics and business intelligence compa
 
 Our mission is to transform raw data into meaningful insights using modern analytics, visualization, and reporting tools.
 
-## Live Website
-
-Visit our website:
-
-https://cyprian-ogwara.github.io/cyprian-limited/
-
 ---
 
 ## Our Services
